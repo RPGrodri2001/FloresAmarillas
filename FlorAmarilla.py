@@ -2,7 +2,7 @@ from turtle import *
 import colorsys
 
 # Agregar el texto en la cabecera
-header_text = "Feliz 21 de Septiembre Mi Cuchi 💝💝💝"
+header_text = "Feliz 21 de Septiembre Mi niña hermosa, te amo💝💝💝"
 color("Gold")  # Color del texto
 penup()
 goto(-180, 250)  # Posición del texto
